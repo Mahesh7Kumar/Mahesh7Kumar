@@ -19,19 +19,12 @@ Working at **RentInTbilisi**
 <p align="left">
 <a href="https://instagram.com/codebyabi" target="_blank">
 <img
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
-goColor=white" alt="Instagram" />
-</a>
-<a href="https://www.youtube.com/@codebyabi" target="_blank">
-<img
-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoCo
-lor=white" alt="YouTube" />
+src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" alt="Instagram" />
 </a>
 
-<a href="https://www.linkedin.com/in/abisheik-r-ba932b274/" target="_blank">
+<a href="www.linkedin.com/in/mahesh-i-7e7e7" target="_blank">
 <img
-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoCo
-lor=white" alt="LinkedIn" />
+src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" />
 </a>
 </p>
 ---
@@ -71,7 +64,7 @@ title="GitHub" />
 <p align="center">
 <img
 src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&show_icons=true&theme
-=radical" alt="Abisheik's GitHub stats" />
+=radical" alt="Mahesh's GitHub stats" />
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-de-jo&layout=com
 pact&theme=radical" alt="Top Languages" />
