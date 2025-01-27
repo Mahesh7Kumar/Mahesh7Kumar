@@ -17,12 +17,12 @@ Working at **RentInTbilisi**
 ---
 ### ? Connect with Me
 <p align="left">
-<a href="https://instagram.com/codebyabi" target="_blank">
+<a href="https://www.instagram.com/aec_meme_ghost/?hl=en" target="_blank">
 <img
 src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" alt="Instagram" />
 </a>
 
-<a href="www.linkedin.com/in/mahesh-i-7e7e7" target="_blank">
+<a href="https://www.linkedin.com/in/mahesh-i-7e7e7/" target="_blank">
 <img
 src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" />
 </a>
