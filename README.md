@@ -43,11 +43,9 @@ alt="Bootstrap" title="Bootstrap" />
 CSS" title="Tailwind CSS" />
 <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"
 title="Node.js" />
-<img height="40" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"
+<img height="40" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="Express.js"
 title="Express.js" />
-<img height="40" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"
-title="Next.js" />
-<img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"
+<img height="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="GitHub"
 title="GitHub" />
 </p>
 ---
@@ -55,7 +53,7 @@ title="GitHub" />
 - **Editor:** Visual Studio Code
 - **Libraries & Frameworks:** Material UI, Ant Design, Tailwind, Prisma, npm
 - **Workspace Setup:**
-- Laptop: **Lenovo IdeaPad Slim 3**
+- Laptop: **Hp 15s*
 - Processor: **AMD Ryzen 5 4600U**
 - Graphics: **Integrated Radeon Graphics**
 - RAM: **8GB**
@@ -63,8 +61,7 @@ title="GitHub" />
 ### ? GitHub Stats
 <p align="center">
 <img
-src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&show_icons=true&theme
-=radical" alt="Mahesh's GitHub stats" />
+src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="Mahesh's GitHub stats" />
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-de-jo&layout=com
 pact&theme=radical" alt="Top Languages" />
