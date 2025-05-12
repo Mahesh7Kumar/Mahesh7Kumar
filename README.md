@@ -16,7 +16,7 @@
 <h1 align="left">🧠 About Me</h1>
 
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Mahesh from Chennai...<br><br>- 🔭 I’m MERN FULL STACK DEVELOPER...<br>- 📚 I'm currently learning Graphic Designing<br>- ⚡ In my free time do Freelancing </p>
 <hr>
 
 
